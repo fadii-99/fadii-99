@@ -1,5 +1,9 @@
 # 💫 About Me:
- I am currently working as a freelancer from the Pakistan AI applications as a backend developer and proficiency in both pattern and AI engineering 
+ I am a skilled Backend Developer and AI Engineer from Pakistan, specializing in building scalable, high-performance backend systems and intelligent AI-driven solutions. With strong expertise in Python, modern backend frameworks, API development, and machine learning workflows, I bring a blend of software engineering discipline and applied AI proficiency to every project.
+
+I have hands-on experience designing robust architectures, optimizing system performance, and integrating advanced AI models—ranging from traditional ML algorithms to state-of-the-art LLMs—into real-world applications. As a freelancer, I focus on delivering clean, maintainable code, reliable backend services, and end-to-end AI implementations tailored to business needs.
+
+My goal is to help clients turn complex ideas into practical, production-ready systems that are efficient, scalable, and aligned with modern AI standards.
 
 
 ## 🌐 Socials:
