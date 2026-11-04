@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./about-life.svg?v=1" width="100%" alt="What I build: AI agents and LLM apps, RAG pipelines, production backends. Off the keyboard: anime nights, training arcs (4 certificates), side quests (72 repos)." />
+  <img src="./about-life.svg?v=2" width="100%" alt="What I build: AI agents and LLM apps, RAG pipelines, production backends. Track record: 3 AI products live in production (QSAI Copilot, LENZEIT, Kraios), 4 certificates, 72 repos." />
 </p>
 
 <p align="center">
