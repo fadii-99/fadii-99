@@ -33,12 +33,23 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-fawad-software-engineer"><img src="./connect.svg?v=2" width="100%" alt="Let's connect: GitHub fadii-99, LinkedIn Muhammad Fawad, email fawdmuhammad14@gmail.com, Instagram @fadii_99__, portfolio fadii-99.github.io. Open to freelance." /></a>
+  <img src="./connect.svg?v=3" width="100%" alt="Let's connect — got an AI idea? Let's build it." />
+</p>
+
+<p align="center">
+  <a href="https://github.com/fadii-99"><img src="./cards/github.svg?v=1" width="49%" alt="GitHub: github.com/fadii-99" /></a>
+  <a href="https://www.linkedin.com/in/fawad14/"><img src="./cards/linkedin.svg?v=1" width="49%" alt="LinkedIn: in/fawad14" /></a>
+  <br />
+  <a href="mailto:fawdmuhammad14@gmail.com"><img src="./cards/gmail.svg?v=1" width="49%" alt="Email: fawdmuhammad14@gmail.com" /></a>
+  <a href="https://instagram.com/fadii_99__"><img src="./cards/instagram.svg?v=1" width="49%" alt="Instagram: @fadii_99__" /></a>
+  <br />
+  <a href="https://fadii-99.github.io"><img src="./cards/globe.svg?v=1" width="49%" alt="Portfolio: fadii-99.github.io" /></a>
+  <a href="mailto:fawdmuhammad14@gmail.com?subject=Project%20inquiry"><img src="./cards/status.svg?v=1" width="49%" alt="Open to freelance: AI agents · RAG · APIs" /></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/fadii-99">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/muhammad-fawad-software-engineer">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/fawad14/">LinkedIn</a> ·
   <a href="mailto:fawdmuhammad14@gmail.com">Email</a> ·
   <a href="https://instagram.com/fadii_99__">Instagram</a> ·
   <a href="https://fadii-99.github.io">Portfolio</a>
