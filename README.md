@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./about-life.svg?v=2" width="100%" alt="What I build: AI agents and LLM apps, RAG pipelines, production backends. Track record: 3 AI products live in production (QSAI Copilot, LENZEIT, Kraios), 4 certificates, 72 repos." />
+  <img src="./about-life.svg?v=3" width="100%" alt="What I build: AI agents and LLM apps, RAG pipelines, production backends. Track record: AI agents, computer vision and document AI shipped to production, 4 certificates, 72 repos." />
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 </p>
 
 <p align="center">
-  <img src="./id-dashboard.svg?v=2" width="100%" alt="Developer ID badge and dashboard: 422 contributions in the last 12 months, 72 repositories, 100 active days, 4 certificates. Now building QSAI Copilot." />
+  <img src="./id-dashboard.svg?v=3" width="100%" alt="Developer ID badge and dashboard: 422 contributions in the last 12 months, 72 repositories, 100 active days, 4 certificates. Now building production AI agents." />
 </p>
 
-### Selected work
+### What I can build for you
 
-| Project | What it does | Built with |
+| Capability | What I deliver | Tools I use |
 |:--|:--|:--|
-| [**QSAI Copilot**](https://qsai-sigma.vercel.app) | AI quantity takeoff for GCC construction: reads architectural and structural drawings (PDF/DXF) and produces BOQ, bar bending and bar cutting schedules, every number traceable | `Python` `FastAPI` `Claude API` `Pydantic` `ezdxf` `PyMuPDF` `openpyxl` `React` `TypeScript` `Vite` `Astro` |
-| [**LENZEIT**](https://www.lenzeit.com) | AI photo sorting and delivery for event photographers: groups thousands of photos by face, picks the sharpest shots, and lets guests find their photos with a selfie. FaceLock keeps chosen faces private | `Django` `DRF` `Celery` `Redis` `InsightFace` `ONNX Runtime` `OpenCV` `MySQL` `S3` `Stripe` `React` `TanStack Query` `MediaPipe` |
-| [**Kraios**](https://github.com/fadii-99/Kraios-AD) | AI construction planning: 2D floor plans, 3D renders and BOQs from a brief. The linked repo is its admin console | `Django REST` `Channels` `Celery` `PostgreSQL` `Gemini` `OpenAI` `Strands Agents` `LangChain` `PyMuPDF` `React` `Three.js` `GSAP` `Tailwind` `Docker` |
-| [**SeaamAI**](https://github.com/fadii-99/SeaamAI) | Conversational RAG chatbot: upload PDFs, get grounded answers with chat memory and contextual-compression retrieval | `FastAPI` `LangChain` `OpenAI GPT-4o-mini` `ChromaDB` `MongoDB` `Motor` `JWT` `pdfplumber` |
-| [**Resume ↔ Job Matcher**](https://github.com/fadii-99/Resume_Job_Scrapper) | Extracts structured CV data with LLM function calling, tags job descriptions and ranks matches in both directions | `FastAPI` `LangChain` `OpenAI function calling` `FuzzyWuzzy` `MySQL` `Stripe` `React` `Tailwind` |
-| [**Document Translator**](https://github.com/fadii-99/TranslatorAppNew) | Translates Word documents into Arabic or Urdu while enforcing a client glossary | `Streamlit` `LangChain` `OpenAI` `ModernMT` `python-docx` `lxml` `pandas` |
+| **AI agents & automation** | Multi-step agents with tool calling and MCP servers that take real actions in your systems | `LangGraph` `Strands` `Agents` `LangChain` `Claude` `OpenAI` `Gemini` `MCP` |
+| **RAG & document AI** | Chat over PDFs, contracts and drawings with grounded, cited answers; PDF/CAD parsing into structured data and Excel | `LangChain` `ChromaDB` `Pinecone` `PyMuPDF` `pdfplumber` `ezdxf` `openpyxl` |
+| **Computer vision** | Face recognition and selfie search, photo quality scoring, duplicate removal at scale | `InsightFace` `ONNX Runtime` `OpenCV` `MediaPipe` `scikit-learn` |
+| **Backend & APIs** | REST and WebSocket APIs, background job pipelines, auth, payments and subscriptions | `FastAPI` `Django REST` `Channels` `Celery` `Redis` `JWT` `Stripe` |
+| **Data, cloud & DevOps** | Databases, object storage and containerised deploys with monitoring | `PostgreSQL` `MySQL` `MongoDB` `S3` `Docker` `Nginx` `Gunicorn` |
+| **Frontend** | Dashboards and product UIs that sit on top of the AI, including 3D views | `React` `TypeScript` `Next.js` `Three.js` `Tailwind` |
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="My GitHub contributions as a 3D city at night, regenerated daily" />
