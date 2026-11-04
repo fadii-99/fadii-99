@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./id-dashboard.svg?v=1" width="100%" alt="Developer ID badge and dashboard: 422 contributions in the last 12 months, 72 repositories, 100 active days, 4 certificates. Now building QSAI Copilot." />
+  <img src="./id-dashboard.svg?v=2" width="100%" alt="Developer ID badge and dashboard: 422 contributions in the last 12 months, 72 repositories, 100 active days, 4 certificates. Now building QSAI Copilot." />
 </p>
 
 ### Selected work
