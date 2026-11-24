@@ -1,32 +1,34 @@
 <p align="center">
-  <img src="./header.svg?v=1" width="100%" alt="Muhammad Fawad — Backend & AI Engineer. I build production AI systems: agents, RAG and computer vision, and the backends that keep them running. Open to freelance." />
+  <img src="./profile-header.svg" width="100%" alt="Muhammad Fawad — Python Full-Stack Engineer (Backend & AI). I build production backends in Django and FastAPI, and the AI that runs inside them: LLM agents, RAG and computer vision. Islamabad / Lahore, Pakistan. Open to remote roles and freelance." />
 </p>
 
-I'm a backend and AI engineer who takes AI from prototype to production: agents that call real tools, retrieval that cites its sources, vision models that run at scale, and the APIs, queues and databases underneath them.
+I'm a Python full-stack engineer: I build the backend of web products and the AI features that run inside them. Since January 2024 I've worked in three roles: backend and AI engineer for a remote UAE company, AI engineer at a software studio, and backend engineer before that.
 
-Most of my work is built for companies and clients, so the public repos here are only a small slice. The table below is what I actually deliver.
+Day to day that means Django and FastAPI services with Celery job pipelines, Stripe billing and secure APIs; LLM systems on LangGraph with RAG, tool calling and multi-agent workflows; and computer vision for face recognition. I take features from data and models all the way to deployed APIs and production support.
+
+Most of this work belongs to employers and clients, so the public repos here are only a small slice. The table below is what I deliver.
 
 ### What I can build for you
 
 | Capability | What I deliver | Tools I use |
 |:--|:--|:--|
-| **AI agents & automation** | Multi-step agents with tool calling and MCP servers that take real actions in your systems | `LangGraph` `Strands` `Agents` `LangChain` `Claude` `OpenAI` `Gemini` `MCP` |
-| **RAG & document AI** | Chat over PDFs, contracts and drawings with grounded, cited answers; PDF/CAD parsing into structured data and Excel | `LangChain` `ChromaDB` `Pinecone` `PyMuPDF` `pdfplumber` `ezdxf` `openpyxl` |
-| **Computer vision** | Face recognition and selfie search, photo quality scoring, duplicate removal at scale | `InsightFace` `ONNX Runtime` `OpenCV` `MediaPipe` `scikit-learn` |
-| **Backend & APIs** | REST and WebSocket APIs, background job pipelines, auth, payments and subscriptions | `FastAPI` `Django REST` `Channels` `Celery` `Redis` `JWT` `Stripe` |
-| **Data, cloud & DevOps** | Databases, object storage and containerised deploys with monitoring | `PostgreSQL` `MySQL` `MongoDB` `S3` `Docker` `Nginx` `Gunicorn` |
-| **Frontend** | Dashboards and product UIs that sit on top of the AI, including 3D views | `React` `TypeScript` `Next.js` `Three.js` `Tailwind` |
+| **AI agents & automation** | Multi-step agents with tool calling and MCP servers that take real actions in your systems | `LangGraph` `LangChain` `OpenAI` `Anthropic` `Gemini` `MCP` |
+| **RAG & document AI** | Chat over documents and drawings with grounded, cited answers; PDF and CAD parsing into structured, validated data | `LangChain` `Pinecone` `ChromaDB` `PyMuPDF` `ezdxf` `Pydantic` |
+| **Computer vision** | Face recognition and selfie search with liveness checks against photo and screen-replay attacks | `OpenCV` `ONNX Runtime` `NumPy` `YOLO` |
+| **Backend & APIs** | REST APIs, Celery job pipelines that stay correct under retries, auth, Stripe payments and subscriptions | `Django` `Django REST Framework` `FastAPI` `Celery` `Redis` `JWT` `Stripe` |
+| **Data & DevOps** | Database design and tuning, CI/CD and containerised deploys on Linux servers | `PostgreSQL` `MySQL` `MongoDB` `Docker` `Nginx` `Gunicorn` `GitHub Actions` |
+| **Frontend (familiar)** | Product UIs in React and Next.js on top of the APIs I build | `React` `Next.js` `TypeScript` `Tailwind` |
 
 ### Stack
 
 <p align="center">
-  <img src="./tech-stack.svg?v=1" width="100%" alt="Tech stack. AI and LLMs: LangChain, LangGraph, Claude, OpenAI, Gemini, Hugging Face, PyTorch, MCP. Backend: Python, FastAPI, Django, Flask, Celery, Redis, Laravel. Data and cloud: PostgreSQL, MySQL, MongoDB, Supabase, Docker, Nginx, Google Cloud, Azure. Frontend and apps: React, Next.js, TypeScript, Tailwind, Three.js, Flutter." />
+  <img src="./skills.svg" width="100%" alt="Stack. AI and LLMs: LangChain, LangGraph, OpenAI, Anthropic, Gemini, Ollama, RAG, MCP. Vision: OpenCV, ONNX Runtime, NumPy, YOLO, face recognition, liveness checks. Backend: Python, Django, Django REST Framework, FastAPI, Pydantic, Celery, Redis, Laravel. Data and DevOps: PostgreSQL, MySQL, MongoDB, Pinecone, Docker, Nginx, GitHub Actions, Linux. Frontend (familiar): React, Next.js, TypeScript, Tailwind." />
 </p>
 
 ### Certifications
 
 <p align="center">
-  <img src="./certifications.svg?v=1" width="100%" alt="Certifications: Agentic AI Foundations: Build RAG & MCP Chatbots (LearnKartS); Machine Learning with Python (IBM); Google Cloud Fundamentals: Core Infrastructure (Google Cloud); Introduction to Microsoft Azure Cloud Services (Microsoft). All via Coursera, 2026." />
+  <img src="./certificates.svg" width="100%" alt="Certifications, all via Coursera, 2026: Machine Learning with Python (IBM); Agentic AI Foundations: Build RAG and MCP Chatbots (LearnKartS); Claude Code in Action (Anthropic); Google Cloud Fundamentals: Core Infrastructure (Google Cloud); Introduction to Microsoft Azure Cloud Services (Microsoft); Master Full-Stack Web Development with Laravel & PHP (Board Infinity)." />
 </p>
 
 ### Let's connect
