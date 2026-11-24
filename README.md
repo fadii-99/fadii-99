@@ -25,12 +25,9 @@ Most of my work is built for companies and clients, so the public repos here are
 
 ### Certifications
 
-| Certificate | Issued by |
-|:--|:--|
-| Agentic AI Foundations: Build RAG & MCP Chatbots | LearnKartS · Coursera · 2026 |
-| Machine Learning with Python | IBM · Coursera · 2026 |
-| Google Cloud Fundamentals: Core Infrastructure | Google Cloud · Coursera · 2026 |
-| Introduction to Microsoft Azure Cloud Services | Microsoft · Coursera · 2026 |
+<p align="center">
+  <img src="./certifications.svg?v=1" width="100%" alt="Certifications: Agentic AI Foundations: Build RAG & MCP Chatbots (LearnKartS); Machine Learning with Python (IBM); Google Cloud Fundamentals: Core Infrastructure (Google Cloud); Introduction to Microsoft Azure Cloud Services (Microsoft). All via Coursera, 2026." />
+</p>
 
 ### Let's connect
 
