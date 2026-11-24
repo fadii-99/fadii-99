@@ -20,7 +20,7 @@ Most of my work is built for companies and clients, so the public repos here are
 ### Stack
 
 <p align="center">
-  <img src="./stack.svg?v=2" width="100%" alt="Tech stack. AI and LLMs: LangChain, LangGraph, Claude, OpenAI, Gemini, Hugging Face, PyTorch, MCP. Backend: Python, FastAPI, Django, Flask, Celery, Redis, Laravel. Data and cloud: PostgreSQL, MySQL, MongoDB, Supabase, Docker, Nginx, Google Cloud, Azure. Frontend and apps: React, Next.js, TypeScript, Tailwind, Three.js, Flutter." />
+  <img src="./tech-stack.svg?v=1" width="100%" alt="Tech stack. AI and LLMs: LangChain, LangGraph, Claude, OpenAI, Gemini, Hugging Face, PyTorch, MCP. Backend: Python, FastAPI, Django, Flask, Celery, Redis, Laravel. Data and cloud: PostgreSQL, MySQL, MongoDB, Supabase, Docker, Nginx, Google Cloud, Azure. Frontend and apps: React, Next.js, TypeScript, Tailwind, Three.js, Flutter." />
 </p>
 
 ### Certifications
