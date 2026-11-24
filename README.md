@@ -1,21 +1,10 @@
-<!-- Every image here is a self-contained animated SVG in this repo.
-     After editing one, bump its ?v= number below or GitHub keeps showing the cached copy. -->
-
 <p align="center">
-  <img src="./hero.svg?v=1" width="100%" alt="Muhammad Fawad — Backend & AI Engineer. I turn rough ideas into production AI products: agents, RAG pipelines and the APIs that run them." />
+  <img src="./header.svg?v=1" width="100%" alt="Muhammad Fawad — Backend & AI Engineer. I build production AI systems: agents, RAG and computer vision, and the backends that keep them running. Open to freelance." />
 </p>
 
-<p align="center">
-  <img src="./about-life.svg?v=3" width="100%" alt="What I build: AI agents and LLM apps, RAG pipelines, production backends. Track record: AI agents, computer vision and document AI shipped to production, 4 certificates, 72 repos." />
-</p>
+I'm a backend and AI engineer who takes AI from prototype to production: agents that call real tools, retrieval that cites its sources, vision models that run at scale, and the APIs, queues and databases underneath them.
 
-<p align="center">
-  <img src="./stack.svg?v=1" width="100%" alt="Tech stack. AI and LLMs: LangChain, LangGraph, Claude, OpenAI, Gemini, Hugging Face, PyTorch, MCP. Backend: Python, FastAPI, Django, Flask, Celery, Laravel. Data and cloud: PostgreSQL, MongoDB, Supabase, Redis, Docker, Google Cloud, Azure. Frontend and apps: React, Next.js, TypeScript, Tailwind, Flutter." />
-</p>
-
-<p align="center">
-  <img src="./id-dashboard.svg?v=3" width="100%" alt="Developer ID badge and dashboard: 422 contributions in the last 12 months, 72 repositories, 100 active days, 4 certificates. Now building production AI agents." />
-</p>
+Most of my work is built for companies and clients, so the public repos here are only a small slice. The table below is what I actually deliver.
 
 ### What I can build for you
 
@@ -28,13 +17,22 @@
 | **Data, cloud & DevOps** | Databases, object storage and containerised deploys with monitoring | `PostgreSQL` `MySQL` `MongoDB` `S3` `Docker` `Nginx` `Gunicorn` |
 | **Frontend** | Dashboards and product UIs that sit on top of the AI, including 3D views | `React` `TypeScript` `Next.js` `Three.js` `Tailwind` |
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="My GitHub contributions as a 3D city at night, regenerated daily" />
-</p>
+### Stack
 
 <p align="center">
-  <img src="./connect.svg?v=3" width="100%" alt="Let's connect — got an AI idea? Let's build it." />
+  <img src="./stack.svg?v=2" width="100%" alt="Tech stack. AI and LLMs: LangChain, LangGraph, Claude, OpenAI, Gemini, Hugging Face, PyTorch, MCP. Backend: Python, FastAPI, Django, Flask, Celery, Redis, Laravel. Data and cloud: PostgreSQL, MySQL, MongoDB, Supabase, Docker, Nginx, Google Cloud, Azure. Frontend and apps: React, Next.js, TypeScript, Tailwind, Three.js, Flutter." />
 </p>
+
+### Certifications
+
+| Certificate | Issued by |
+|:--|:--|
+| Agentic AI Foundations: Build RAG & MCP Chatbots | LearnKartS · Coursera · 2026 |
+| Machine Learning with Python | IBM · Coursera · 2026 |
+| Google Cloud Fundamentals: Core Infrastructure | Google Cloud · Coursera · 2026 |
+| Introduction to Microsoft Azure Cloud Services | Microsoft · Coursera · 2026 |
+
+### Let's connect
 
 <p align="center">
   <a href="https://github.com/fadii-99"><img src="./cards/github.svg?v=1" width="49%" alt="GitHub: github.com/fadii-99" /></a>
